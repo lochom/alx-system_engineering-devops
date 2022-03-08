@@ -1,1 +1,1 @@
-hidethisword
+list all direcctories
