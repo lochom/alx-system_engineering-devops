@@ -1,1 +1,1 @@
-path
+local
